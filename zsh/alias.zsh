@@ -3,7 +3,7 @@ alias ..='cd ../'
 alias ...='cd ../../'
 alias ....='cd ../../../'
 
-alias cl = 'clear'
+alias cl='clear'
 
 alias l='ls -laGFhS'
 alias ls='ls -aGFhS'
