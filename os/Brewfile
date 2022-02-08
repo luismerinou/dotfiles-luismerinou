@@ -159,3 +159,6 @@ cask "google-drive-file-stream"
 
 # Password manager
 cask "lastpass"
+
+# Markdown editor
+cask "typora"
