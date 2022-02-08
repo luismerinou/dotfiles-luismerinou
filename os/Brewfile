@@ -156,3 +156,6 @@ cask "maccy"
 brew "z"
 
 cask "google-drive-file-stream"
+
+# Password manager
+cask "lastpass"
