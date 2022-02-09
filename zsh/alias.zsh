@@ -7,7 +7,7 @@ alias webstorm='~/webstorm'
 alias l='ls -laGFhS'
 alias ls='ls -aGFhS'
 alias lg='l | grep --color=auto'
-alias binnacle='open -a Firefox '"'"'http://www.youtube.com/'"'"' '
+alias binnacle='open -a Firefox '"'"'https://tnt.autentia.com/binnacle/'"'"' '
 #cd + ls
 cd() { builtin cd "$@"; ls; }
 # ip 
