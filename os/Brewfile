@@ -162,3 +162,6 @@ cask "lastpass"
 
 # Markdown editor
 cask "typora"
+
+# Adobe acrobat reader
+cask "adobe-acrobat-reader"
