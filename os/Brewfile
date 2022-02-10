@@ -160,10 +160,13 @@ cask "google-drive-file-stream"
 # Password manager
 cask "lastpass"
 
-# nodejs
+# node js
 brew install node
 
 # Adobe acrobat reader
 cask "adobe-acrobat-reader"
+
+# one drive
+cask "google-drive"
 
 
