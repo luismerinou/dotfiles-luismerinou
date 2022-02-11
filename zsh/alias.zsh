@@ -8,6 +8,8 @@ alias l='ls -laGFhS'
 alias ls='ls -aGFhS'
 alias lg='l | grep --color=auto'
 alias binnacle='open -a Firefox '"'"'https://tnt.autentia.com/binnacle/'"'"' '
+alias media='open -a Firefox '"'"'https://media.autentia.com/video/'"'"' '
+
 #cd + ls
 cd() { builtin cd "$@"; ls; }
 # ip 
